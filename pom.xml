@@ -59,6 +59,7 @@
 	</dependencyManagement>
 
 	<build>
+		<finalName>StoryLoomServiceRegistry</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
